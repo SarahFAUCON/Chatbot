@@ -1,0 +1,51 @@
+question;theme;classement;reponse
+Quel transporteur va me livrer ?;Livraison;Livraison;0
+Je souhaite connaitre les délais de livraison d'un colissimo ;Livraison;Livraison;0
+Quels sont les points de retraits Colissimo ?;Livraison;Produits et Disponibilité;0
+Puis je me faire livrer en magasin ? ;Livraison;Livraison;0
+Combien de frais de livraison vais-je payer ? ;Livraison;Produits et Disponibilité;0
+Comment modifier mon adresse de livraison ? ;Livraison;Livraison;1
+Comment se faire livrer dans les DOM TOM ?;Livraison;Livraison;0
+Je souhaite connaitre mon délais de rétractation ;Retour et Remboursement;Carte cadeau, avoir et bon d'achat;0
+Quel est le délai de rétractation ?;Retour et Remboursement;;0
+Je n'ai pas été remboursé ?;Retour et Remboursement;Retour et Remboursement;0
+j'ai refusé un article de ma commande ;Retour et Remboursement;Produits et Disponibilité;0
+Geodis point de retrait : quelles sont les modalités d’une reprise ?;Retour et Remboursement;Retour et Remboursement;0
+City Transport : quelles sont les modalités d’une reprise ?;Retour et Remboursement;Retour et Remboursement;0
+Rappel d'un produit;Produits et Disponibilité;Produits et Disponibilité;0
+Comment connaitre la disponibilité des articles ?;Produits et Disponibilité;Responsabilité Sociétale des Entreprises;0
+J'aimerai un catalogue des articles ?;Produits et Disponibilité;Produits et Disponibilité;0
+Comment avoir des précisions sur la garantie des articles que je viens d'acheter ? ;Produits et Disponibilité;Responsabilité Sociétale des Entreprises;0
+J'ai acheté un canapé so...me personnalisé est il couvert par la garantie commerciale ? ;Produits et Disponibilité;Produits et Disponibilité;0
+ou sont situées les boutiques maison du monde ? ;Produits et Disponibilité;Produits et Disponibilité;0
+Puis je obtenir des échantillons de matière ? ;Produits et Disponibilité;Produits et Disponibilité;0
+Comment faire pour suivre ma commande ? ;Commande et Paiement;Mon Compte et Informations personnelles;0
+comment faire pour ajouter un article au panier de ma commande ? ;Commande et Paiement;Produits et Disponibilité;0
+Comment faire pour modifier mon adresse de facturation ?;Commande et Paiement;Commande et Paiement;1
+Comment passer une commande sur le site de maison du monde ? ;Commande et Paiement;Commande et Paiement;0
+Quels sont les moyens de paiement disponibles lorsque je commande sur internet ?;Commande et Paiement;Commande et Paiement;1
+Comment faire pour obtenir une facture de mes achats ?;Commande et Paiement;Mon Compte et Informations personnelles;0
+Mon paiement sur internet est il sécurisé ? ;Commande et Paiement;Commande et Paiement;0
+Comment utiliser une carte cadeau maison du monde ? ;Carte cadeau, avoir et bon d'achat;Carte cadeau, avoir et bon d'achat;0
+Comment faire pour passer commande d'une carte cadeau ? ;Carte cadeau, avoir et bon d'achat;Carte cadeau, avoir et bon d'achat;0
+Comment consulter le solde de mon avoir ? ;Carte cadeau, avoir et bon d'achat;Carte cadeau, avoir et bon d'achat;0
+comment consulter la date de validité de mon bon d'achat ? ;Carte cadeau, avoir et bon d'achat;Carte cadeau, avoir et bon d'achat;1
+Que faire quand on a perdu son bon d'achat ?;Carte cadeau, avoir et bon d'achat;Carte cadeau, avoir et bon d'achat;1
+Que faire quand on a perdu sa carte cadeau ? ;Carte cadeau, avoir et bon d'achat;Carte cadeau, avoir et bon d'achat;1
+je n'arrive pas à utiliser ma carte cadeau que faire ? ;Carte cadeau, avoir et bon d'achat;Carte cadeau, avoir et bon d'achat;0
+Comment faire pour activer son compte client apres une commande en magasin ? ;Mon Compte et Informations personnelles;Mon Compte et Informations personnelles;0
+Comment protéger mes données personnelles ? quels droits ? ;Mon Compte et Informations personnelles;Mon Compte et Informations personnelles;0
+Existe t il une carte de fidélité maison du monde et comment faire pour y adhérer ? ;Mon Compte et Informations personnelles;Mon Compte et Informations personnelles;1
+Peut on se désabonner de la newsletter ? ;Mon Compte et Informations personnelles;Mon Compte et Informations personnelles;0
+Que dois je faire en cas d'oubli de mon mot de passe ? ;Mon Compte et Informations personnelles;Mon Compte et Informations personnelles;1
+Comment faire pour avoir accès aux ventes privées ? ;Mon Compte et Informations personnelles;Carte cadeau, avoir et bon d'achat;0
+Comment faire pour postuler a une annonce de recrutement ? ;Mon Compte et Informations personnelles;Mon Compte et Informations personnelles;0
+Dans quels pays les produits sont ils fabriqués ? ;Responsabilité Sociétale des Entreprises;Responsabilité Sociétale des Entreprises;0
+Quelles sont vos exigences envers vos fournisseurs ?;Responsabilité Sociétale des Entreprises;Responsabilité Sociétale des Entreprises;0
+De quel forêt provient le bois utilisé dans vos produits ? ;Responsabilité Sociétale des Entreprises;Responsabilité Sociétale des Entreprises;0
+Comment sont contrôlées les substances chimiques utilisées pour le traitement du textile ?;Responsabilité Sociétale des Entreprises;Responsabilité Sociétale des Entreprises;0
+Comment faire pour donner une seconde vie à nos produits ? ;Responsabilité Sociétale des Entreprises;Responsabilité Sociétale des Entreprises;0
+Comment gérez vous l'impression de vos catalogues ?;Responsabilité Sociétale des Entreprises;Responsabilité Sociétale des Entreprises;0
+Comment faites vous pour trier les emballages de vos produits ? ;Responsabilité Sociétale des Entreprises;Responsabilité Sociétale des Entreprises;1
+Quelles matières d'origine animale utilisez vous ? ;Responsabilité Sociétale des Entreprises;Responsabilité Sociétale des Entreprises;0
+Les produits contiennent-ils du formaldéhyde ?;Responsabilité Sociétale des Entreprises;Responsabilité Sociétale des Entreprises;0
